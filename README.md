@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hɪ I ᴀᴍ #𝗧𝗔𝗧𝗔𝗞𝗔𝗘 •  Ꭼʀᴇɴ(Ꭼʀᴇɴ)
+    Hi I'm #𝗧𝗔𝗧𝗔𝗞𝗔𝗘 •  Ꭼʀᴇɴ(Ꭼʀᴇɴ)
 </h2>
 
 <div align="center">
