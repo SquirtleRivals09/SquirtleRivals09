@@ -1,5 +1,5 @@
 <h2 align="center">
-    Hi I'm #𝗧𝗔𝗧𝗔𝗞𝗔𝗘 •  Ꭼʀᴇɴ(Ꭼʀᴇɴ)
+    Hi I'm  #𝗧𝗔𝗧𝗔𝗞𝗔𝗘 •  Ꭼʀᴇɴ(Ꭼʀᴇɴ)
 </h2>
 
 <div align="center">
@@ -16,5 +16,5 @@
 
 <p align="center"> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/shauryanoobhai/count.svg" />
+  <img src="https://profile-counter.glitch.me/SquirtleRivals09/count.svg" />
 </p>
